@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2021",
+    "declaration": true,
+    "sourceMap": true,
+    "removeComments": false,
+    "preserveConstEnums" : true,
+    "skipLibCheck": true,
+    "moduleResolution":"node",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "baseUrl": ".",
+  },
+  "include": ["./src/**/*.ts"]
+}

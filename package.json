@@ -1,0 +1,19 @@
+{
+  "name": "thorium-packager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/archiver": "^6.0.2",
+    "@types/node": "^20.10.6",
+    "@types/unzipper": "^0.10.9",
+    "archiver": "^6.0.1",
+    "typescript": "^5.3.3",
+    "unzipper": "^0.10.14"
+  }
+}
