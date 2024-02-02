@@ -1,6 +1,6 @@
 # thorium-packager
 
-ThoriumPackager est une bibliothèque TypeScript qui fournit des fonctionnalités pour mapper des fichiers, initialiser des paquets, et lire/écrire des paquets zip. Elle utilise des bibliothèques populaires telles que `archiver` et `unzipper` pour simplifier les opérations d'emballage de fichiers dans l'écosystème Thorium.
+ThoriumPackager est une bibliothèque TypeScript qui fournit des fonctionnalités pour mapper des fichiers, initialiser des paquets, et lire/écrire des paquets zip. Elle utilise des les bibliothèques `archiver` et `unzipper` pour simplifier les opérations d'emballage de fichiers dans l'écosystème Thorium.
 
 ## Fonctionnalités
 
